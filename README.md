@@ -85,4 +85,4 @@ Example flights:
 -	**Revenue Maximization:** Leverage the high profitability of **LAX** by expanding flight frequency or optimizing ticket pricing.
 -	**Seasonal Demand Strategy:** Capitalize on peak months like **June** for **Fort Lauderdale** by increasing capacity or promotional offers.
 
-This report serves as a foundation for future financial and operational improvements. Further data integration and analysis can enhance the airline’s decision-making process.
+This project report serves as a foundation for future financial and operational improvements. Further data integration and analysis can enhance the airline’s decision-making process.
